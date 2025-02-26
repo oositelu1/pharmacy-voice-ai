@@ -21,10 +21,10 @@ const openai = new OpenAI({
 // ------ CONFIGURATION ------
 // Store hours and common information
 const PHARMACY_INFO = {
-  name: "Community Health Pharmacy",
-  hours: "Monday to Friday: 9am to 7pm, Saturday: 9am to 5pm, Sunday: Closed",
-  address: "123 Main Street, Anytown, USA",
-  phone: "(555) 123-4567"
+  name: "America First Pharmacy",
+  hours: "Monday to Friday: 9:30am to 3:30pm, Saturday: Closed, Sunday: Closed",
+  address: "7801 Mesquite Bend Drive #108, Irving, TX 75063",
+  phone: "(972) 947-2400"
 };
 
 // Placeholder for Liberty Software RXQ integration
